@@ -9,7 +9,7 @@ Flutter Developer
 - 🔍 I'm located in Kerala, India. Wanna have a code - chat over coffee?? Lets meet!!
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://x.com/meghanathanph?t=kSYT9nlpEpt3RKtIjhChjQ&s=09) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/meghanathan-p-h-5217322a8)
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://x.com/meghanathanph?t=kSYT9nlpEpt3RKtIjhChjQ&s=09) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/meghanathan-p-h)
 - 😄 Pronouns: Techie
 - ⚡ Long Live Open S🔥urce
 
@@ -28,7 +28,7 @@ Flutter Developer
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Meghanathan-P-H/Meghanathan-P-H/output/github-contribution-grid-snake.svg" />
-  
+   
+  ![snake gif](https://github.com/Meghanathan-P-H/Meghanathan-P-H/blob/output/github-snake-dark.svg)
   <br/><br/><br/>
 </div>
