@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/C4D12AQGOb99Boc8ZFg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1626074730409?e=1742428800&v=beta&t=dUgQH4cIYK67Zug7o5yVO-5L21DanhOWTN3XMv6opNI)
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3999&pause=1000&width=435&separator=%3C&lines=Hi+There!+%F0%9F%91%8B%3CI'm+Meghanathan+P+H!;" alt="Typing SVG" /></a>
 </h1>
