@@ -26,9 +26,7 @@ Flutter Developer
 [![LeetCode Stats](https://leetcard.jacoblin.cool/meghanathanph?theme=light&font=Cutive%20Mono)](https://leetcode.com/meghanathanph)
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <h2>My Contributions</h2>
    
   ![snake gif](https://github.com/Meghanathan-P-H/Meghanathan-P-H/blob/output/github-snake-dark.svg)
-  <br/><br/><br/>
 </div>
