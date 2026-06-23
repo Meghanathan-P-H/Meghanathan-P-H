@@ -4,7 +4,7 @@
 
 Flutter Developer
 <img align="right" width="370" height="290" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">                                              
-- 🌱 I’m currently learning Flutter
+- 🌱 Mobile App Developer
 - 🌟 Self-taught Flutter developer passionate about mobile apps.
 - 🔍 I'm located in Kerala, India. Let’s code-chat over coffee?? Lets meet!!
 - 💬 Ask me about Tech
